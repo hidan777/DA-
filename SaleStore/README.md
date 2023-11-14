@@ -5,4 +5,4 @@ I use pandas for data transformation instead of Power Query in Power BI
 
 and here is my output from power BI : 
 
-![image](https://github.com/hidan777/Data_Cleaning_and_Transform/assets/116585951/8242e105-c6d8-40bd-aa90-fd5ad4bc6c50)
+![image](https://github.com/hidan777/Data_Cleaning_and_Transform/assets/116585951/b0ebffac-e31d-4986-bc4d-c88e023ca94b)
