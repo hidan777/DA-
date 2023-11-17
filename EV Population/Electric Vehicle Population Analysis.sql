@@ -27,7 +27,7 @@ group by `Model Year`
 order by count(*) DESC;
 
 
--- Cites and counties with most EV 
+-- Cities and counties with the most EVs 
 select City,count(*) 'Sum of city'
 from electric_vehicle_population_data
 group by City
