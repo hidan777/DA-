@@ -1,4 +1,4 @@
-The project being conducted is to determine the number of Electric Vehicle (EV) populations in the US. The dataset can be downloaded here: [Dataset US EV Population from kaggle](https://www.kaggle.com/datasets/ishmaelkiptoo/us-electric-vehicle-population-data)
+The project being conducted is to determine the number of Electric Vehicle (EV) populations in the US. The dataset can be downloaded here: [Dataset EV Population from kaggle](https://www.kaggle.com/datasets/ishmaelkiptoo/us-electric-vehicle-population-data)
 
 
 There are several steps to process this dataset:
@@ -28,8 +28,15 @@ Data visualization is done using Power BI tools.
 
 
 
-From the visualization results, the total number of circulating EVs is about 149 thousand vehicles, divided into 35 manufacturers and 124 models. The most common model year is 2023. This trend has been increasing over the past 5 years. It can be said that the interest in EVs continues to increase because sales in the latest year at that time always increase from the previous year. The comparison of Clean Alternative Fuel Vehicles (CAFV) that are eligible with unknown is very close, namely 62 thousand vehicles and 69 thousand vehicles. The large number of unknowns is because many vehicles have not been researched. The type of EV from the circulating EV is 22.2% Plug-in Hybrid Electric Vehicle (PHEV) and 77.8% Battery Electric Vehicle (BEV). The majority of people prefer cars that are supplied 100% directly from battery electricity. Tesla's product still dominates the circulating EV followed by manufacturers Nissan and Chevron. 3 out of 4 most circulating EVs are Model Y, Model 3, and Model S. And the biggest fans of EVs come from the city of Seattle, reaching 26 thousand vehicles. This is very different from the total in the two cities below it, namely Bellevue and Redmond, which are 8 thousand and 5 thousand respectively. This could be because Seattle is a larger city compared to other cities.
+Based on the results, there are approximately 149 thousand electric vehicles (EVs), produced by 35 manufacturers and across 124 models. The most common model year is 2023, indicating a growing trend over the past five years. This suggests that interest in EVs continues to rise, as sales in the most recent year have consistently increased from the previous year.
 
+The number of EVs eligible under the Clean Alternative Fuel Vehicles (CAFV) program is close to the number of vehicles with unknown status, specifically 62 thousand and 69 thousand vehicles respectively. The large number of unknowns is due to many vehicles not having been researched yet.
+
+In terms of EV types, 22.2% are Plug-in Hybrid Electric Vehicles (PHEVs) and 77.8% are Battery Electric Vehicles (BEVs). The majority of people prefer cars that are powered 100% directly from battery electricity.
+
+Tesla products dominate the EV market, followed by other manufacturers such as Nissan and Chevrolet. Three out of the four most popular EVs are the Model Y, Model 3, and Model S.
+
+Lastly, the data reveals that the city of Seattle has the highest number of EV enthusiasts, with a total of 26 thousand vehicles. This is significantly more than in Bellevue and Redmond, which have 8 thousand and 5 thousand vehicles respectively.
 
 
 
