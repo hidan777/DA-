@@ -7,3 +7,9 @@ Hallo
 [Crude Oil WTI PRICE](https://alfred.stlouisfed.org/series/downloaddata?seid=DCOILWTICO)
 
 [Brent Oil](https://alfred.stlouisfed.org/series/downloaddata?seid=DCOILBRENTEU)
+
+
+
+
+![image](https://github.com/hidan777/DA-/assets/116585951/8c66b4ef-0163-4ee9-9419-0ceac6e9cb62)
+
