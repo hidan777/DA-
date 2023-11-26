@@ -2,26 +2,20 @@ This Data Analysis project is about examining the trends of U.S. Inflation, DFF 
 
 The data is sourced from the following: 
 - [U.S. Crude Oil](https://www.eia.gov/dnav/pet/pet_sum_snd_a_ep00_mbbl_m_cur.htm)
-- [DFF](https://fred.stlouisfed.org/series/DFF)
-- [Inflation](https://www.usinflationcalculator.com/inflation/historical-inflation-rates/)
+- [U.S. DFF](https://fred.stlouisfed.org/series/DFF)
+- [U.S. Inflation](https://www.usinflationcalculator.com/inflation/historical-inflation-rates/)
 
 The process involves several steps:
 
 * Data Transformation
   
-The main purpose of data transformation is to combine the three datasets and calculate the growth for analysis purposes. We use Jupyter Notebook for Python. The steps are: 
+The main purpose of data transformation is to combine the three datasets and calculate the growth for our analysis. We use Jupyter Notebook for Python. Here’s what we’re going to do:: 
 1. [Transform the 3 datasets](https://github.com/hidan777/DA-/blob/main/Inflation%2C%20DFF%20%26%20Crude%20Oil/OIL%2C%20Inflation%20%26%20DFF%20Transform.ipynb)
 2. [Calculate the growth of indicators](https://github.com/hidan777/DA-/blob/main/Inflation%2C%20DFF%20%26%20Crude%20Oil/Growth%20Transform.ipynb)
 
 * Data Visualization 
 
-We will then visualize the transformed data to better understand the trends and patterns..
-
-[Crude Oil WTI PRICE](https://alfred.stlouisfed.org/series/downloaddata?seid=DCOILWTICO)
-
-[Brent Oil](https://alfred.stlouisfed.org/series/downloaddata?seid=DCOILBRENTEU)
-
-
+We will then use Power BI tools to visualize the transformed data, allowing us to better understand the trends and patterns.
 
 
 ![image](https://github.com/hidan777/DA-/assets/116585951/8c66b4ef-0163-4ee9-9419-0ceac6e9cb62)
