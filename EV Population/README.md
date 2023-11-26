@@ -10,7 +10,7 @@ Here, we are using two tools: Jupyter Notebook for Python and MySQL.
 
 - **Data Analysis**: 
 
-At this stage, the transformed dataset is analyzed and several questions are answered before drawing conclusions, such as:
+At this stage, the transformed dataset is analyzed and several questions are answered before making conclusions, such as:
   1. What is the total number of electric vehicles (EVs) ?
   2. Which EV model is the best-selling?
   3. Which manufacturer sells the most?
