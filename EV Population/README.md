@@ -5,7 +5,7 @@ There are several steps to process this dataset:
 - **Data Transformation** :
 
 Here, we are using two tools: Jupyter Notebook for Python and MySQL.
-  1. [Jupyter Notebook for Python](https://github.com/hidan777/DA-/blob/main/EV%20Population/Electric%20Vehicle%20Population%20Transform.sql)
+  1. [Jupyter Notebook for Python](https://github.com/hidan777/DA-/blob/main/EV%20Population/Electric%20Vehicle%20Population%20Transform.ipynb)
 2.  [Mysql](https://github.com/hidan777/DA-/blob/main/EV%20Population/Electric%20Vehicle%20Population%20Transform.sql)
 
 - **Data Analysis**: 
